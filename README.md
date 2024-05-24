@@ -1,6 +1,6 @@
 steps to work
 
-Download Mosquitto
+Download Mosquitto \n
 Install Mosquitto
 Put in file Mosquitto conf
   allow_anonymous true
